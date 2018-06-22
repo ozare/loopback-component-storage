@@ -14,7 +14,7 @@
   "dependencies": {
     "async": "^2.1.5",
     "formidable": "^1.0.16",
-    "pkgcloud": "simllll/pkgcloud#nogcloud",
+    "pkgcloud": "ozare/pkgcloud#nogcloud",
     "strong-globalize": "^2.6.2",
     "uuid": "^3.0.1"
   },
